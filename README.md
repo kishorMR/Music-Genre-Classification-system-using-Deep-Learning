@@ -3,7 +3,7 @@ A machine learning based academic mini project based on CNN.
 
 This repository contains the code and resources for an audio genre classification project using Convolutional Neural Networks (CNNs).The aim of this project is to develop a model that can accurately classify audio files into different genres, such as rock, pop, jazz, hip-hop, and more.
 
-**Introduction**
+# Introduction
 Audio genre classification is a challenging task in the field of machine learning and signal processing. This project utilizes deep learning techniques, specifically CNNs, to automatically learn features from audio data and classify it into various music genres. By leveraging the power of deep learning, we can develop models capable of distinguishing between different genres with high accuracy.
 
 **Dataset**
